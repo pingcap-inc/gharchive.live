@@ -12,3 +12,4 @@ items:
   - Jonghakseo/chrome-extension-boilerplate-react-vite
   - aklinker1/vite-plugin-web-extension
   - antfu-collective/vitesse-webext
+  - lxieyang/chrome-extension-boilerplate-react
