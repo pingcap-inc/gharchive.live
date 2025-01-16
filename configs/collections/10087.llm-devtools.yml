@@ -9,6 +9,6 @@ items:
   - morph-labs/rift
   - smallcloudai/refact
   - sourcegraph/cody
-  - AbanteAI/mentat
   - BloopAI/bloop
   - codefuse-ai/codefuse-chatbot
+  - cline/cline
