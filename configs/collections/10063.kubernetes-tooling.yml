@@ -33,4 +33,4 @@ items:
   - berops/claudie
   - gimlet-io/capacitor
   - loft-sh/vcluster
-  
+  - meshery/meshery
