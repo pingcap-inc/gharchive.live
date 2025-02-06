@@ -17,3 +17,4 @@ items:
   - neuml/txtai
   - RelevanceAI/vectorhub
   - chroma-core/chroma
+  - epsilla-cloud/vectordb

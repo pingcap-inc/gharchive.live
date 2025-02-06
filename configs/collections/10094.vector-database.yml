@@ -11,3 +11,4 @@ items:
   - elastic/elasticsearch
   - redis/redis
   - opensearch-project/OpenSearch
+  - epsilla-cloud/vectordb
